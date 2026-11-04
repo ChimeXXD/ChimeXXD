@@ -15,8 +15,6 @@ deployment faster.
   episode comes out, in your own time zone, with widgets and a release-night countdown. SwiftUI, open source.
 - **[Clepso](https://clepso-app.vercel.app)**: a local-first macOS menu bar app that shows how much of your Claude Code
   and Codex usage limits you've used, when they reset and how fast you're going.
-- **[Making Perpetual Trading Less Scary](https://chimexd.work/work/making-perpetual-trading-less-scary)**: a case study
-  on how clearer language, better feedback and simpler flows make trading feel calm instead of overwhelming.
 
 More on [chimexd.work/work](https://chimexd.work/work).
 
