@@ -27,5 +27,4 @@ Figma · Framer · Paper · Pencil · Cursor · Codex · Claude · Claude Code �
 [Portfolio](https://chimexd.work) · [CV](https://chimexd.work/cv.pdf) ·
 [LinkedIn](https://www.linkedin.com/in/chimexd/) · [X](https://x.com/__sinofgluttony) ·
 [Book a call](https://cal.com/chimexd/30min)
-
-Open to remote roles. When I'm not designing, I'm probably on X debating football tactics or the latest UFC card.
+──
